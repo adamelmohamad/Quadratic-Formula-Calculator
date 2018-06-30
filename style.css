@@ -1,0 +1,33 @@
+body{
+	background: #eee;
+	font-size:20px;
+}
+
+#a,#b,#c{
+	font-size:50px;
+	min-width:400px;
+	min-height: 100px;
+    border:3px solid;
+    border-color:#F2552C;
+    border-radius:20px;
+}
+#a:focus,#b:focus,#c:focus{
+	outline:none;
+}
+
+#myButton{
+	min-height:70px;
+	min-width:260px;
+	background:#fff;
+	border-radius:10px;
+	border-color:black;
+}
+
+#myButton:hover{
+	background:	#79C753
+}
+
+body{
+	background:#F0EDE5;
+}
+
